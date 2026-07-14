@@ -1,0 +1,4 @@
+interface:
+  display_name: "Production AI Forensic Audit"
+  short_description: "Ruthless audit of AI/growth plans"
+  default_prompt: "Use $production-ai-forensic-audit to tear down this AI automation or growth plan against production reality."

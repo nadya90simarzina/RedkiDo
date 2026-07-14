@@ -1,0 +1,24 @@
+﻿owner: "@team"
+status: "team-ready"
+summary: "Creates realistic interior redesign, home staging, and marketplace-product placement edits from room photos."
+use_cases:
+  - "Virtually stage a real room photo for sale, rent, or presentation while preserving architecture and camera view."
+  - "Add specific furniture or decor items, such as nightstands, lamps, rugs, curtains, wall art, or plants, to a precise place in a room photo."
+  - "Composite a marketplace product photo, such as a bedspread or sofa, into the user's room photo with realistic scale, perspective, lighting, and shadows."
+do_not_use_for:
+  - "Architectural planning, measurements, construction drawings, permits, or safety-critical interior design decisions."
+  - "Edits that require changing real people, pets, identities, visible private data, or personal documents in the photo."
+  - "Unrequested structural changes such as moving windows, doors, walls, stairs, or built-in fixtures."
+natural_triggers:
+  - "сделай хоумстейджинг"
+  - "сделай новый дизайн комнаты"
+  - "добавь прикроватные тумбочки"
+  - "положи это покрывало на кровать"
+  - "примерь товар с маркетплейса в мой интерьер"
+example_files:
+  - "examples/good-01-home-staging.md"
+  - "examples/good-02-nightstands.md"
+  - "examples/good-03-marketplace-bedspread.md"
+  - "examples/anti-01-do-not-change-architecture.md"
+  - "examples/anti-02-no-rectangular-product-paste.md"
+last_reviewed: "2026-05-13"

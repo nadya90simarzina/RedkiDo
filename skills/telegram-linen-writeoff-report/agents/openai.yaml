@@ -1,0 +1,4 @@
+interface:
+  display_name: "Telegram Linen Writeoff Report"
+  short_description: "Build inline linen writeoff reports from Telegram chat exports."
+  default_prompt: "Create a linen writeoff report from a Telegram messages.html export for the requested date range and show the final report directly in chat."

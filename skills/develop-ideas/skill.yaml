@@ -1,0 +1,27 @@
+owner: "@Надя"
+status: "team-ready"
+summary: "Decomposes and expands an idea by extracting internal logic, hidden assumptions, broader systems, and a stronger reconstructed version."
+use_cases:
+  - "Analyze an idea through interpretation, structure, hidden assumptions, broader systems, implications, and reconstruction."
+  - "Deepen a vague or early-stage concept without turning it into a generic plan."
+  - "Prepare a stronger version of an idea for discussion, strategy, writing, research, or product thinking."
+do_not_use_for:
+  - "Straightforward execution tasks where the user already gave a concrete build, edit, search, or calculation request."
+  - "Requests that only need factual verification, current research, or source-backed evidence rather than conceptual analysis."
+  - "Brainstorming that asks only for a long list of options without decomposition, contextualization, or reconstruction."
+natural_triggers:
+  - "проанализируй идею"
+  - "разложи идею"
+  - "концептуально проработай"
+  - "найди скрытые предпосылки"
+  - "усиль идею"
+  - "conceptual decomposition"
+  - "expand this idea"
+  - "reconstruct the idea"
+example_files:
+  - "examples/good-01-conceptual-analysis.md"
+  - "examples/good-02-domain-depth.md"
+  - "examples/good-03-reconstruction.md"
+  - "examples/anti-01-not-execution-task.md"
+  - "examples/anti-02-not-fact-verification.md"
+last_reviewed: "2026-05-20"

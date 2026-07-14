@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "Interior Home Staging Director"
+  short_description: "Interior redesign and product try-on"
+  default_prompt: "Use $interior-home-staging-director, or just say 'сделай хоумстейджинг', 'добавь прикроватные тумбочки', or 'положи это покрывало на кровать' with room and product photos."
+
+policy:
+  allow_implicit_invocation: true

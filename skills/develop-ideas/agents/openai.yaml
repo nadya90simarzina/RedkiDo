@@ -1,0 +1,7 @@
+interface:
+  display_name: "Conceptual Decomposition"
+  short_description: "Decompose, contextualize, and strengthen ideas"
+  default_prompt: "Use $develop-ideas: проанализируй идею через surface meaning, ambiguities, conceptual cores, hidden assumptions, broader systems, implications, reconstructed idea, and final synthesis."
+
+policy:
+  allow_implicit_invocation: true
